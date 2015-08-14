@@ -2,8 +2,8 @@
 menu:
   首页: /
   存档: /archives
-  html/css: /htmlCss
-  javscript: /jascript
+  html/css: http://www.baidu.com
+  javscript: /categories/jascript
   nodejs: /nodejs
 
 # rss: /atom.xml
